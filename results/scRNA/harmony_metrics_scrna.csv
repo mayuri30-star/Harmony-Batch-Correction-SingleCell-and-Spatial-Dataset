@@ -1,0 +1,7 @@
+"Metric","Before_Harmony","After_Harmony","Direction"
+"ASW_cluster",0.305,0.2077,"higher=better"
+"ASW_batch",0.1413,-0.0055,"lower=better"
+"NMI",0.1007,0.1027,"higher=better"
+"ARI",0.033,0.0458,"higher=better"
+"iLISI",1.4816,1.7984,"higher=better"
+"cLISI",1.836,1.8258,"lower=better"
