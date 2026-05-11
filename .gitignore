@@ -1,1 +1,8 @@
-
+*.rds
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+*.tsv.gz
+*.csv.gz
+data/
